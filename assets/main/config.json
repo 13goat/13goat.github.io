@@ -1,0 +1,110 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "main",
+    "deps": [
+        "internal",
+        "resources"
+    ],
+    "uuids": [
+        "03d2f6d7-c4e6-4479-9147-0629c174ec4b",
+        "03db6b88-6ba2-4caa-b077-40dc2acde895",
+        "0864b7da1",
+        "0e7e3133-eee4-4159-924c-9632f7bd8e62",
+        "3de5fd0e-f555-4452-9b14-0e5ed60ec80b",
+        "3eb56705-0077-46e7-ab07-3c04e9a9b4bb",
+        "41ef691b-3752-4b04-8a47-bacfad4bb895",
+        "43ac78c6-5173-40ba-8e25-750324317385",
+        "57f42a8e-d407-4b8a-a8e2-7ecee94fb29e",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@40c10",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@74afd",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@7d38f",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@8fd34",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@bb97f",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@e9a6d",
+        "93da5740-1b44-44c9-9998-8883f98fe039",
+        "97940331-4c40-46cd-ab85-910191f850d9",
+        "9f093fee-0dd7-4b54-9961-5b2ab8d89278",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@40c10",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@74afd",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@7d38f",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@8fd34",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@bb97f",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@e9a6d",
+        "fd8ec536-a354-4a17-9c74-4f3883c378c8"
+    ],
+    "paths": {
+        "3de5fd0e-f555-4452-9b14-0e5ed60ec80b": [
+            "db:/assets/scenes/mainScene",
+            "cc.SceneAsset",
+            1
+        ],
+        "fd8ec536-a354-4a17-9c74-4f3883c378c8": [
+            "db:/internal/default_renderpipeline/builtin-forward",
+            "cc.RenderPipeline",
+            1
+        ],
+        "ba21476f-2866-4f81-9c4d-6e359316e448": [
+            "db:/internal/physics/default-physics-material",
+            "cc.PhysicsMaterial",
+            1
+        ]
+    },
+    "scenes": {
+        "db://assets/scenes/mainScene.scene": "3de5fd0e-f555-4452-9b14-0e5ed60ec80b"
+    },
+    "packs": {
+        "0864b7da1": [
+            "3de5fd0e-f555-4452-9b14-0e5ed60ec80b",
+            "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0",
+            "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@40c10",
+            "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@74afd",
+            "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@7d38f",
+            "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@8fd34",
+            "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@bb97f",
+            "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@e9a6d",
+            "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+            "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@40c10",
+            "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@74afd",
+            "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@7d38f",
+            "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@8fd34",
+            "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@bb97f",
+            "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@e9a6d"
+        ]
+    },
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [
+        "03d2f6d7-c4e6-4479-9147-0629c174ec4b",
+        "1",
+        "03db6b88-6ba2-4caa-b077-40dc2acde895",
+        "1",
+        "0e7e3133-eee4-4159-924c-9632f7bd8e62",
+        "1",
+        "3eb56705-0077-46e7-ab07-3c04e9a9b4bb",
+        "1",
+        "41ef691b-3752-4b04-8a47-bacfad4bb895",
+        "1",
+        "43ac78c6-5173-40ba-8e25-750324317385",
+        "1",
+        "57f42a8e-d407-4b8a-a8e2-7ecee94fb29e",
+        "1",
+        "93da5740-1b44-44c9-9998-8883f98fe039",
+        "1",
+        "97940331-4c40-46cd-ab85-910191f850d9",
+        "1",
+        "9f093fee-0dd7-4b54-9961-5b2ab8d89278",
+        "1",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "0"
+    ],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
